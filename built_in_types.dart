@@ -77,6 +77,6 @@ void main() {
     'email': 'syedsamadshah15@gmail.com',
     'isDeveloper': true,
   };
-  data['country'] = 'Pakistan';
+  data['country'] = 'Pakistan'; // we can add new value in maps
   print(data);
 }
